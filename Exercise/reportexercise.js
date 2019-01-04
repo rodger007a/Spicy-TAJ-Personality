@@ -1,5 +1,5 @@
 sendVirtualAssistantMessage("reporting exercise...");
-temptimes= getVar("VARIABLE_EXERCISE_TIMES");
+//temptimes= getVar("VARIABLE_EXERCISE_TIMES");
 if( !isVar("VARIABLE_EXERCISE_TIMES"))
 	{// this is the first time user is reporting exercise
 	sendVirtualAssistantMessage("%subName%, this is the first time you're reporting exercise activity");
@@ -23,8 +23,8 @@ if( !isVar("VARIABLE_EXERCISE_TIMES"))
 	 else{
 		sendVirtualAssistantMessage("%subName%, Fitness and Honesty are both important");
 		sendVirtualAssistantMessage("Have you just completed an exercise?");
-		answer2 = createInput("Yes","No");
-		while (true) 
+		answer2 = createInput();
+		while (true)
 			{
 			if (answer2.containsIgnoreCase("yes","yeah","yep"))
 				{
