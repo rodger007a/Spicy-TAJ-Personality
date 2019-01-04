@@ -14,7 +14,7 @@
     playAudio("Audio/Spicy/Starts/Intro/intro1.mp3", true);
     sendMessage("It's mine!");
     playAudio("Audio/Spicy/Starts/Intro/intro2.mp3", true);
-    sendMessage("You serve under my rules and terms", 0);
+    sendMessage("You serve under my rules and terms");
     playAudio("Audio/Spicy/Starts/Intro/intro3.mp3", true);
     sendMessage("Fail to do so properly");
     playAudio("Audio/Spicy/Starts/Intro/intro4.mp3", true);
@@ -22,7 +22,7 @@
     playAudio("Audio/Spicy/Starts/Intro/intro5.mp3", true);
     sendMessage("On another note");
     playAudio("Audio/Spicy/Starts/Intro/intro6.mp3", true);
-    sendMessage("If you thought even for one second that my world is centered around you", 0);
+    sendMessage("If you thought even for one second that my world is centered around you");
     playAudio("Audio/Spicy/Starts/Intro/intro7.mp3", true);
     sendMessage("You are dearly mistaken");
     playAudio("Audio/Spicy/Starts/Intro/intro8.mp3", true);
@@ -48,20 +48,20 @@
 
     lockImages();
     sendMessage("This is " + SLAVE_F1_NAME);
-    showPicture("Images/Spicy/Slaves/F1\ Alice\ Brookes/1/1.jpg", 5)
+    showPicture("Images/Spicy/Slaves/F1\ Alice\ Brookes/1/1.JPG", 5)
     unlockImages();
     sendMessage("Oh my can she handle the vibrator *Smiles*");
 
     lockImages();
     sendMessage("This is " + SLAVE_F2_NAME);
-    showPicture("Images/Spicy/Slaves/F2\ Brook\ Amelia\ Wright/1/1.jpg", 5)
+    showPicture("Images/Spicy/Slaves/F2\ Brook\ Amelia\ Wright/1/1.JPG", 5)
     unlockImages();
     sendMessage("She's nice and well behaved");
     sendMessage("Be like her");
 
     lockImages();
     sendMessage("This is " + SLAVE_F3_NAME);
-    showPicture("Images/Spicy/Slaves/F3\ Rosie\ Danvers/1/1.jpg", 5)
+    showPicture("Images/Spicy/Slaves/F3\ Rosie\ Danvers/1/1.JPG", 5)
     unlockImages();
     sendMessage("Oh my gosh");
     sendMessage("I have done many nasty things to her and she just takes it all %Grin%");
