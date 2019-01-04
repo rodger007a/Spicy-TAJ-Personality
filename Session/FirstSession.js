@@ -10,80 +10,80 @@
     sendMessage("The point is you're mine!");
     sendMessage("Let that sink in for a moment...", 10);
     sendMessage("Now what is more important for you to understand is that the thing residing in your pants");
-    sendMessage("Is not yours anymore", 0);
+    sendMessage("Is not yours anymore");
     playAudio("Audio/Spicy/Starts/Intro/intro1.mp3", true);
-    sendMessage("It's mine!", 0);
+    sendMessage("It's mine!");
     playAudio("Audio/Spicy/Starts/Intro/intro2.mp3", true);
     sendMessage("You serve under my rules and terms", 0);
     playAudio("Audio/Spicy/Starts/Intro/intro3.mp3", true);
-    sendMessage("Fail to do so properly", 0);
+    sendMessage("Fail to do so properly");
     playAudio("Audio/Spicy/Starts/Intro/intro4.mp3", true);
-    sendMessage("...and you will be sold off.", 0);
+    sendMessage("...and you will be sold off.");
     playAudio("Audio/Spicy/Starts/Intro/intro5.mp3", true);
-    sendMessage("On another note", 0);
+    sendMessage("On another note");
     playAudio("Audio/Spicy/Starts/Intro/intro6.mp3", true);
     sendMessage("If you thought even for one second that my world is centered around you", 0);
     playAudio("Audio/Spicy/Starts/Intro/intro7.mp3", true);
-    sendMessage("You are dearly mistaken", 0);
+    sendMessage("You are dearly mistaken");
     playAudio("Audio/Spicy/Starts/Intro/intro8.mp3", true);
-    sendMessage("This isn't about you", 0);
+    sendMessage("This isn't about you");
     playAudio("Audio/Spicy/Starts/Intro/intro9.mp3", true);
-    sendMessage("Not even a little bit", 0);
+    sendMessage("Not even a little bit");
     playAudio("Audio/Spicy/Starts/Intro/intro10.mp3", true);
-    sendMessage("I am the center", 0);
+    sendMessage("I am the center");
     playAudio("Audio/Spicy/Starts/Intro/intro11.mp3", true);
-    sendMessage("I am your focus", 0);
+    sendMessage("I am your focus");
     playAudio("Audio/Spicy/Starts/Intro/intro12.mp3", true);
-    sendMessage("Your job is to please me", 0);
+    sendMessage("Your job is to please me");
     playAudio("Audio/Spicy/Starts/Intro/intro13.mp3", true);
-    sendMessage("Never forget that...", 0);
+    sendMessage("Never forget that...");
     playAudio("Audio/Spicy/Starts/Intro/intro14.mp3", true);
-    sendMessage("Well #SlaveName", 0);
+    sendMessage("Well %SlaveName%");
     playAudio("Audio/Spicy/Starts/Intro/intro15.mp3", true);
-    sendMessage("If you thought that you are my sole focus", 0);
+    sendMessage("If you thought that you are my sole focus");
     playAudio("Audio/Spicy/Starts/Intro/intro16.mp3", true);
     sendMessage("You are once again dearly mistaken");
     sendMessage("Others have signed up through Tease-AI");
     sendMessage("Both men and women...");
 
     lockImages();
-    sendMessage("This is " + SLAVE_F1_NAME, 0);
-    showPicture("Images/Spicy/Slaves/F1 Alice Brookes/1/1.jpg", 5)
+    sendMessage("This is " + SLAVE_F1_NAME);
+    showPicture("Images/Spicy/Slaves/F1\ Alice\ Brookes/1/1.jpg", 5)
     unlockImages();
     sendMessage("Oh my can she handle the vibrator *Smiles*");
 
     lockImages();
-    sendMessage("This is " + SLAVE_F2_NAME, 0);
-    showPicture("Images/Spicy/Slaves/F2 Brook Amelia Wright/1/1.jpg", 5)
+    sendMessage("This is " + SLAVE_F2_NAME);
+    showPicture("Images/Spicy/Slaves/F2\ Brook\ Amelia\ Wright/1/1.jpg", 5)
     unlockImages();
     sendMessage("She's nice and well behaved");
     sendMessage("Be like her");
 
     lockImages();
-    sendMessage("This is " + SLAVE_F3_NAME, 0);
-    showPicture("Images/Spicy/Slaves/F3 Rosie Danvers/1/1.jpg", 5)
+    sendMessage("This is " + SLAVE_F3_NAME);
+    showPicture("Images/Spicy/Slaves/F3\ Rosie\ Danvers/1/1.jpg", 5)
     unlockImages();
     sendMessage("Oh my gosh");
     sendMessage("I have done many nasty things to her and she just takes it all %Grin%");
 
     lockImages();
-    sendMessage("This is " + SLAVE_M1_NAME, 0);
-    showPicture("Images/Spicy/Slaves/M1 Will Havoc/1.jpg", 5)
+    sendMessage("This is " + SLAVE_M1_NAME);
+    showPicture("Images/Spicy/Slaves/M1\ Will\ Havoc/1.jpg", 5)
     unlockImages();
     sendMessage("He is a fine student");
     sendMessage("Smart, intelligent and he knows his place");
     sendMessage("Learn from his example");
 
     lockImages();
-    sendMessage("This is " + SLAVE_M2_NAME, 0);
-    showPicture("Images/Spicy/Slaves/M2 Marcelo/1.jpg", 5)
+    sendMessage("This is " + SLAVE_M2_NAME);
+    showPicture("Images/Spicy/Slaves/M2\ Marcelo/1.jpg", 5)
     unlockImages();
     sendMessage("A little disobedient");
     sendMessage("But a long period in chastity fixed that issue %Grin%");
 
     lockImages();
-    sendMessage("This is " + SLAVE_M3_NAME, 0);
-    showPicture("Images/Spicy/Slaves/M3 Lance Hart/1.jpg", 5)
+    sendMessage("This is " + SLAVE_M3_NAME);
+    showPicture("Images/Spicy/Slaves/M3\ Lance\ Hart/1.jpg", 5)
     unlockImages();
     sendMessage("A baad baad slave");
     sendMessage("As a punishment");
